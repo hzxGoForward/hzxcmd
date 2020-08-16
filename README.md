@@ -1,2 +1,2 @@
 # hzxcmd
-a cmd tool implementation by Rust andclap
+a cmd tool implementation by Rust and clap
